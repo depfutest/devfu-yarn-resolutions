@@ -1,0 +1,42 @@
+{
+  "scripts": {
+    "test": "node index.js"
+  },
+  "private": true,
+  "resolutions": {
+    "@types/react": "^16.8.14"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.4.4",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/preset-typescript": "^7.1.0",
+    "@blueprintjs/core": "3.14.1",
+    "@blueprintjs/datetime": "^3.5.0",
+    "@blueprintjs/icons": "^3.3.0",
+    "@blueprintjs/timezone": "^3.1.0",
+    "@rails/webpacker": "^4.0.0-rc.7",
+    "@tinymce/tinymce-react": "^2.6.1",
+    "@types/actioncable": "^5.2.0",
+    "@types/react": "^16.8.14",
+    "@types/react-dom": "^16.8.4",
+    "actioncable": "^5.2.3",
+    "axios": "^0.18.0",
+    "axios-case-converter": "^0.2.1",
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
+    "classnames": "^2.2.6",
+    "create-react-class": "^15.6.3",
+    "immutable": "^3.8.2",
+    "ldclient-js": "^2.5.0",
+    "lodash.camelcase": "^4.3.0",
+    "lodash.get": "^4.4.2",
+    "lodash.template": "^4.4.0",
+    "lodash.templatesettings": "^4.1.0",
+    "moment-timezone": "^0.5.23",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "ts-loader": "^5.4.4",
+    "typescript": "^3.4.5"
+  }
+}
+
